@@ -49,12 +49,12 @@
          - [NVIDIA](./config/graphical-session/graphics-drivers/nvidia.md)
          - [NVIDIA
             Optimus](./config/graphical-session/graphics-drivers/optimus.md)
-      - [Xorg](./config/graphical-session/xorg.md)
       - [Wayland](./config/graphical-session/wayland.md)
       - [Fonts](./config/graphical-session/fonts.md)
       - [Icons](./config/graphical-session/icons.md)
       - [GNOME](./config/graphical-session/gnome.md)
       - [KDE](./config/graphical-session/kde.md)
+      - [blahKDE](./config/graphical-session/kdesdf.md)
    - [Multimedia](./config/media/index.md)
       - [ALSA](./config/media/alsa.md)
       - [PipeWire](./config/media/pipewire.md)
