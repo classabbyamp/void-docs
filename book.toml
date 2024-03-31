@@ -38,4 +38,5 @@ exclude = [
 	'voidlinux\.com\.br',
 	'reddit\.com',
 	'raspberrypi\.com',
+	'libsdl.org',
 ]
