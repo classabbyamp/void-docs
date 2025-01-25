@@ -15,8 +15,11 @@ edit-url-template = "https://github.com/void-linux/void-docs/edit/master/{path}"
 "/config/man.html" = "/config/package-documentation/man.html"
 "/config/gnupg.html" = "/config/openpgp.html#gnupg"
 
-[output.latex]
+[output.typst]
 optional = true
+
+[output.typst.output]
+format = "pdf"
 
 [output.gemini]
 optional = true
